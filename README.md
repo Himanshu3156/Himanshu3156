@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Himanshu dhakate
-- 👀 I’m interested in to decode a code
-- 🌱 I’m currently learning web devlopment
+- 👋 Hi, I’m @Himanshu dhakate.
+- 👀 I’m interested in to decode a code.
+- 🌱 I’m currently learning web devlopment.
+- 🤖 contributing in GsSOC'25 project's (open source).
 
 <!---
 Himanshu3156/Himanshu3156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
